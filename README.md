@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm currently enrolled in a Data Science Bootcamp and will be pushing content on here in the near future :)
+
+
+ralmzn824@gmail.com
 <!--
 **ralmzn/ralmzn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
