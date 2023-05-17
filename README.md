@@ -11,6 +11,8 @@
 
 - ⚡ What I like to do: **I love Biology, Binging K-Dramas and Basketball!!**
 
+- Check out my <a href="https://public.tableau.com/app/profile/rafael.almazan">data visualizations!</a>
+
 <h3 align="center">Connect with me:</h3>
 <div align="center">
 
