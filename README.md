@@ -1,15 +1,13 @@
 <h1 align="center">Hi, I'm Rafael 🧬<img height="40"></h1>
 <h3 align="center">A UBC Biology Graduate who loves Data Science</h3>
 
-- 🔭 I’m currently working on my **Data Science Bootcamp**
-
 - 🌱 I’m currently learning **Python**
 
 - 👯 I’m looking to collaborate on **Machine Learning Projects**
 
 - 📫 How to reach me: **ralmzn824@gmail.com**
 
-- ⚡ What I like to do: **I love Biology, Binging K-Dramas and Basketball!!**
+- ⚡ What I like to do: **I love Biology and Business Development!**
 
 - Check out my <a href="https://public.tableau.com/app/profile/rafael.almazan">data visualizations!</a>
 
