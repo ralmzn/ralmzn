@@ -1,9 +1,5 @@
 <h1 align="center">Hi, I'm Rafael 🧬<img height="40"></h1>
-<h3 align="center">A UBC Biology Graduate who loves Data Science</h3>
-
-- 🌱 I’m currently learning **Python**
-
-- 👯 I’m looking to collaborate on **Machine Learning Projects**
+<h3 align="center">A UBC Biology Graduate who's just vibinge</h3>
 
 - 📫 How to reach me: **ralmzn824@gmail.com**
 
